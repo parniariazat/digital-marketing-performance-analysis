@@ -44,7 +44,7 @@ The analysis is based on publicly available e-commerce data from the **Olist (Br
 - Average Order Value remains relatively stable across most months, indicating consistent purchasing behavior.  
 - Periods of rapid growth in order volume may coincide with slight declines in AOV, suggesting the acquisition of new or more price-sensitive customers.  
 
-A concise managerial Executive Summary is provided in the `docs/` folder.
+A concise managerial Executive Summary is provided in the `reports/` folder.
 
 ---
 
@@ -64,3 +64,4 @@ A concise managerial Executive Summary is provided in the `docs/` folder.
 
 ## Author
 Parnia Riazat
+
